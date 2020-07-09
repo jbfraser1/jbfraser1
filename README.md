@@ -1,16 +1,15 @@
-### Hi there 👋
+### ⛵
 
-<!--
-**jbfraser1/jbfraser1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Not that Jamie F, I'm a geek living the middle of the US.
 
-Here are some ideas to get you started:
+I've spent a fair number of hours in the last couple years working
+ on [SailScores](https://www.sailscores.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- At this moment learning MarkDown
+- I've done a lot of fullstack work, concentrating in the
+ Microsoft ecosystem.
+
+- Random tip: the secret to getting plenty of rep on Stack
+ Overflow? Find an area that not too many people know and
+ you're interested in learning: then you can take time
+ submitting answers, while you research stuff yourself.
