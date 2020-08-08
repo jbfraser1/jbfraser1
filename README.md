@@ -5,7 +5,6 @@ Not that Jamie F, I'm a geek living the middle of the US.
 I've spent a fair number of hours in the last couple years working
  on [SailScores](https://www.sailscores.com)
 
-- At this moment learning MarkDown
 - I've done a lot of fullstack work, concentrating in the
  Microsoft ecosystem.
 
@@ -13,3 +12,6 @@ I've spent a fair number of hours in the last couple years working
  Overflow? Find an area that not too many people know and
  you're interested in learning: then you can take time
  submitting answers, while you research stuff yourself.
+ 
+ http://www.widernets.com/jfresume/
+ 
