@@ -3,7 +3,7 @@
 Not that Jamie F, I'm a geek living the middle of the US.
 
 I've spent a fair number of hours in the last couple years working
- on [SailScores](https://www.sailscores.com)
+ on [SailScores](https://github.com/jbfraser1/SailScores)
 
 - I've done a lot of fullstack work, concentrating in the
  Microsoft ecosystem.
